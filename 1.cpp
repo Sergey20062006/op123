@@ -1,6 +1,6 @@
-123
-1245186548713547
-fknsdkjghdsjkgb
-/*
+#include <iostream>
 
-*/
+int main() {
+    std::cout << "Hello World!" << std::endl;
+    return 0;
+}
